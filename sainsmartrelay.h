@@ -5,7 +5,7 @@
 #define DEVICE_ID 0x6001
 
 #define FIRST_RELAY    1
-#define MAX_NUM_RELAYS 4
+#define MAX_NUM_RELAYS 8
 #define MAX_RELAY_CARD_NAME_LEN 40
 #define MAX_COM_PORT_NAME_LEN 32
 
